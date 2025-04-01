@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="www.linkedin.com/in/behan-kusi-02278a289" target="_blank">
+  <a href="https://www.linkedin.com/in/behan-kusi-02278a289" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
 </div>
@@ -14,7 +14,12 @@
 
 ###
 
-<p align="left">I'm Behan from Switzerland<br><br>- 🔭 I’m currently working as a software developer</p>
+<p align="left">
+  I'm Behan from Switzerland&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" height="18" alt="Swiss flag" />
+  <br><br>
+  - 🔭 I’m currently working as a software developer
+</p>
 
 ###
 
@@ -23,7 +28,9 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
+  <img src="https://cdn-icons-png.flaticon.com/512/5968/5968252.png" height="40" alt="delphi logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="aws logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
