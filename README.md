@@ -19,6 +19,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/f3/Flag_of_Switzerland.svg" height="18" alt="Swiss flag" />
   <br><br>
   - 🔭 I’m currently working as a software developer
+  - 🌱 I’m currently learning ways to host your own LLMs with Ollama
 </p>
 
 ###
