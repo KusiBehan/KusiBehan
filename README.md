@@ -1,8 +1,4 @@
 
-<div align="center">
-  <img height="150" src="https://sdmntprsouthcentralus.oaiusercontent.com/files/00000000-1c5c-51f7-ae19-e1b14f9536b3/raw?se=2025-04-01T13%3A41%3A12Z&sp=r&sv=2024-08-04&sr=b&scid=682044ae-1ccd-5384-9858-9c76b7d4246c&skoid=fa7966e7-f8ea-483c-919a-13acfd61d696&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-04-01T06%3A01%3A52Z&ske=2025-04-02T06%3A01%3A52Z&sks=b&skv=2024-08-04&sig=%2BTGySib2O/c1NpbTuoQYY0GsW%2BBkUSoGYk6E/piX6U4%3D"  />
-</div>
-
 ###
 
 <div align="center">
